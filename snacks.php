@@ -1,3 +1,5 @@
+<!-- Kata Vowels Count (CodeWars)-->
+
 <?php
 
 function getCount(string $str): int
